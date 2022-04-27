@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\bin\Debug\net5.0\Uri_Desafios.exe
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\bin\Debug\net5.0\Uri_Desafios.deps.json
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\bin\Debug\net5.0\Uri_Desafios.runtimeconfig.json
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\bin\Debug\net5.0\Uri_Desafios.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\bin\Debug\net5.0\Uri_Desafios.dll
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\bin\Debug\net5.0\ref\Uri_Desafios.dll
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\bin\Debug\net5.0\Uri_Desafios.pdb
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.dll
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\ref\Uri_Desafios.dll
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.pdb
+C:\Users\usuario\source\repos\Uri_Desafios\Uri_Desafios\obj\Debug\net5.0\Uri_Desafios.genruntimeconfig.cache
