@@ -18,6 +18,7 @@ namespace Uri_Desafios.Beecrowd_1
     {
         public static void Executar()
         {
+            
             Console.Write("Funcionario: ");
             string funcionario = Console.ReadLine();
             Console.Write("Salario: ");
@@ -25,9 +26,9 @@ namespace Uri_Desafios.Beecrowd_1
             Console.Write("Total vendas No mes: R$ ");
             double VendasNoMes = double.Parse(Console.ReadLine());
 
-            double TOTAL = salario + VendasNoMes * 0.15;
+            double TOTAL = (VendasNoMes * 0.15) + salario;
 
-            Console.WriteLine("TOTAL =  "+ TOTAL.ToString(".00"));
+            Console.WriteLine("TOTAL = R$ {0:F2}", TOTAL);
         }
     }
 }
