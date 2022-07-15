@@ -34,8 +34,8 @@ namespace Uri_Desafios.Beecrowd_1
 
             int MAIOR = Math.Max(MAIORAB, MAIORAC);
 
-           
-                Console.WriteLine(MAIOR + " eh o maior");
+
+            Console.WriteLine(MAIOR + " eh o maior");
 
         }
     }

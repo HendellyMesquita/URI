@@ -35,6 +35,12 @@ namespace CursoCSharp
                 {"TESTE DE SELEÇÃO 1 - INICIANTE", _1035TesteDeSelecao1.Executar},
                 {"FORMULA DE BHASKARA - INICIANTE", _1036FormulaDeBhaskara.Executar},
                 {"INTERVALO - INICIANTE", _1037Intervalo.Executar},
+                {"LANCHE - INICIANTE", _1038Lanche.Executar},
+                {"MEDIA 3 - INICIANTE", _1040Media3.Executar},
+                {"COORDENADAS DE UM PONTO - INICIANTE", _1041CoordenadasDeUmPonto.Executar},
+                {"SORT SIMPLES", _1042SortSimples.Executar},
+                {"TRIÂNGULO", _1043Triangulo.Executar},
+                {"MÚLTIPLOS", _1044Multiplos.Executar},
 
 
             });

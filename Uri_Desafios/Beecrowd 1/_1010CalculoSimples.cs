@@ -40,7 +40,7 @@ namespace Uri_Desafios.Beecrowd_1
             double total1 = valor1 * quant1;
             double total2 = valor2 * quant2;
             double totalFinal = total1 + total2;
-           
+
             Console.WriteLine("VALOR A PAGAR: R$ {0:F2}", totalFinal);
         }
     }

@@ -18,7 +18,7 @@ namespace Uri_Desafios.Beecrowd_1
     {
         public static void Executar()
         {
-            
+
             Console.Write("Funcionario: ");
             string funcionario = Console.ReadLine();
             Console.Write("Salario: ");

@@ -28,7 +28,7 @@ namespace Uri_Desafios.Beecrowd_1
             double velocidade = double.Parse(Console.ReadLine());
 
             double distancia = tempo * velocidade;
-            double litros = distancia/altomovel;
+            double litros = distancia / altomovel;
 
             Console.WriteLine(litros.ToString("F3"));
         }

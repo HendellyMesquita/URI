@@ -26,19 +26,19 @@ namespace Uri_Desafios.Beecrowd_1
             double a = double.Parse(vet[0]);
             double b = double.Parse(vet[1]);
             double c = double.Parse(vet[2]);
-           
+
             double delta = (b * b) - (4 * a * c);
             double raiz = Math.Sqrt(delta);
             var x1 = ((-(b)) + raiz) / (2 * a);
             var x2 = ((-(b)) - raiz) / (2 * a);
 
-            if(a == 0 || delta < 0)
+            if (a == 0 || delta < 0)
             {
                 Console.WriteLine("Impossivel calcular");
                 return;
             }
-            Console.WriteLine("R1 = "+ x1.ToString("F5"), CultureInfo.InvariantCulture);
-            Console.WriteLine("R2 = "+ x2.ToString("F5"), CultureInfo.InvariantCulture);
+            Console.WriteLine("R1 = " + x1.ToString("F5"), CultureInfo.InvariantCulture);
+            Console.WriteLine("R2 = " + x2.ToString("F5"), CultureInfo.InvariantCulture);
         }
 
 

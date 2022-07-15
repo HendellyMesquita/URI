@@ -26,10 +26,10 @@ namespace Uri_Desafios.Beecrowd_1
             Console.Write("Valor Recebido Por Hora: ");
             double valorHora = double.Parse(Console.ReadLine());
 
-            double salario =valorHora * horaTrabalhada;
+            double salario = valorHora * horaTrabalhada;
 
-            Console.WriteLine("NUMBER = "+ funcionario);
-            Console.WriteLine("SALARY = U$ "+ salario.ToString(".00"));
+            Console.WriteLine("NUMBER = " + funcionario);
+            Console.WriteLine("SALARY = U$ " + salario.ToString(".00"));
         }
     }
 }
